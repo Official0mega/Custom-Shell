@@ -16,7 +16,7 @@ This is a simple UNIX command-line interpreter project. The goal is to create a 
 
 ## Overview
 
-The Simple Shell project is a part of the ALX SE Foundations curriculum. It involves creating a basic UNIX shell that can interpret and execute commands, handle built-in functionalities like `exit` and `env`, and support various advanced features such as logic operators and comments.
+The Custom Shell project is a part of the ALX SE Foundations curriculum. It involves creating a basic UNIX shell that can interpret and execute commands, handle built-in functionalities like `exit` and `env`, and support various advanced features such as logic operators and comments.
 
 ```bash
 simple_shell

@@ -1,4 +1,4 @@
-# Simple Shell Project
+# Custom Shell Project
 ![custom-shell](https://github.com/Official0mega/Custom-Shell/assets/122806822/de241db3-7236-459a-9876-e37f24020f75)
 
 
